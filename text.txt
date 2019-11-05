@@ -1,0 +1,1 @@
+        'firstName', 'secondName', 'lastName', 'email', 'phone', 'password', 'city', 'street', 'house', 'guide', 'lat', 'lang', 'locationName', 'nationality', 'language', 'pic1', 'pic2', 'pic3', 'resistanceType', 'applicationType',
